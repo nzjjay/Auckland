@@ -38,4 +38,4 @@ Settlement is the process of transferring ownership of the property to you. On s
 
 ## What happens if I cannot settle?
 
-If you are not able to settle on settlement day, this is a very serious problem and you need to contact your lawyer proactively and immediately. Generally the vendor will be able to keep your deposit, and also claim damages - either forcing you to settle on the deal + costs they incur in forcing you to do so, or charge all the costs of re-listing, opportunity losses, and other costs. Basically, once you sign the deal, you cannot walk away.
+If you are not able to settle on settlement day, this is a very serious problem and you need to contact your lawyer proactively and immediately. Generally, the vendor will be able to keep your deposit, and also claim damages - either forcing you to settle on the deal + costs they incur in forcing you to do so, or charge all the costs of re-listing, opportunity losses, and other costs. Basically, once you sign the deal, you cannot walk away.

@@ -6,7 +6,7 @@
 
 * [Why?](the-buying-journey/why/README.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
-* [Useful government tools](the-buying-journey/useful-government-tools.md)
+* [Government websites you should use](the-buying-journey/government-websites-you-should-use.md)
 * [Other useful websites](the-buying-journey/other-useful-websites.md)
 * [Creating a shortlist](the-buying-journey/creating-a-shortlist.md)
 * [Viewing a property](the-buying-journey/viewing-a-property.md)
@@ -15,7 +15,7 @@
 * [Methods of buying](the-buying-journey/methods-of-buying/README.md)
   * [Tender, Negotiation, and Deadline](the-buying-journey/methods-of-buying/tender-negotiation-and-deadline.md)
   * [Auction](the-buying-journey/methods-of-buying/auction.md)
-* [What to do after winning](the-buying-journey/what-to-do-after-winning.md)
+* [Gone unconditional](the-buying-journey/gone-unconditional.md)
 * [Settlement Process](the-buying-journey/settlement-process.md)
 * [My tradies and team](the-buying-journey/my-tradies-and-team.md)
 * [Donate / Koha](the-buying-journey/donate-koha.md)

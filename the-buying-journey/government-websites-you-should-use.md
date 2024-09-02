@@ -2,9 +2,9 @@
 description: These government sites are incredibly helpful sources of information.
 ---
 
-# Useful government tools
+# Government websites you should use
 
-There's a lot of open source information from the government that can guide your property search. These tools are integral to my search and are my first port of call.
+The government / local council has really useful websites that are invaluable for your property search. In fact these are what I immediately look at whenever I see a property I have any interest in. Save these for future reference.
 
 ## Auckland Flood Viewer
 
@@ -34,15 +34,7 @@ The Auckland council unitary plan viewer lets you see the unitary plan zone for 
 
 [https://linz.maps.arcgis.com/apps/webappviewer/index.html?id=8501fe601f7648718d0e3a2f3f1ed216](https://linz.maps.arcgis.com/apps/webappviewer/index.html?id=8501fe601f7648718d0e3a2f3f1ed216)
 
-This LINZ map shows all government / crown owned properties in New Zealand. More interestingly, it shows the locations of all Housing New Zealand properties as well. This can be helpful if proximity to social housing is important or a cause of concern for you.
-
-##
-
-##
-
-
-
-
+This LINZ map shows all government / crown owned properties in New Zealand. More interestingly, it shows the locations of all Housing New Zealand properties as well. This can be helpful if proximity to state owned housing is important or a cause of concern for you.
 
 
 

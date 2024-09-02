@@ -20,7 +20,13 @@ Agents by law cannot lie to you. They must truthfully disclose what the vendor h
 
 ### "Market Feedback"
 
-I often send agents texts asking for the "market feedback" for a property. The good agents will text back with a figure or range. This immediately tells you what the vendor expects or has been guided on, or what other visitors to the open home have expressed. There's lots of disclaimers with this market feedback, but it tells you if you're in the range of not. There's no point visiting a property with feedback of 1.8M when your budget is 1M.
+I often send agents texts asking for the "market feedback" for a property. The good agents will text back with a figure or range. This immediately tells you what the vendor expects or has been guided on, or what other visitors to the open home have expressed. There's lots of disclaimers with this market feedback, but it tells you if you're in the range of not. There's no point visiting a property with feedback of 1.8M when your budget is 1M. However agents will also play up or play down the feedback. Here's how it works:
+
+If an agent wants more people at the auction, they will state a lower market feedback, to get people to the room and create a crowd.
+
+If an agent wants to price anchor, they will state a higher market feedback, hoping to nab someone that is less familiar with the value of the property.
+
+Be mindful of this.
 
 ### Private viewing
 

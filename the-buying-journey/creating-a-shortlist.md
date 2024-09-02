@@ -15,15 +15,14 @@ As you search online, it’s worth it to create a shortlist of what characterist
 | Title              | Freehold                      | Want a clean title                                 |
 | Building material  | Weatherboard, Brick & Tile    | Want a no-fuss watertight home                     |
 | Land Area          | 400m2+                        | Want a bit of space                                |
-| Bedrooms           | 4+                            | For the future family :)                           |
+| Bedrooms           | 4-5                           | For the future family :)                           |
 | Close to Transport | 500m walk to bus stop / train | So I dont have to be on state carpark 16 every day |
 | Natural Light      | Plenty                        | Because I am not a vampire                         |
 | Garage             | Atleast 2 big spots           | We have 2 SUVs                                     |
+| Bathroom           | 2                             | We all leave for work at the same time             |
 
 \
 This is a blunt instrument, and you should use it with some generosity, but it can be a great way of dismissing properties before visiting and discovering it didn’t suit your needs anyway. If there’s a property that’s on the edge – go, see it in person.
-
-##
 
 ## Quick checks
 

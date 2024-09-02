@@ -12,10 +12,16 @@ Some tips:
 
 3\.       You will want a general pre-approval to know your limits, and a specific pre-approval when you’re ready to buy a property.
 
+
+
+On pre-approval, you will get a formal letter advising you of what amount you can borrow and what conditions are attached to the lending. Remember, this is just general lending. You still need to talk to the bank about each and every property you want to borrow that money on.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>An example of a home loan letter</p></figcaption></figure>
+
 ### The LVR (Loan Value Ratio)
 
 You’ll hear about “LVR” a lot, this standards for Loan Value Ratio, and is the amount of money you’ll contribute to the house vs the bank. Typically, banks are content when you have a 20% deposit and open doors for you. Anything less than 20% makes you a riskier proposition. Where possible aim for a 20% deposit to give you the best bargaining ability.
 
 ### Mortgage Brokers and Bankers
 
-You will use a mortgage broker or a banker to help you with the mortgage process. There’s no right answer on who’s better, and it really varies. As a first home buyer with a simple financial situation, either option will work for you. The most important thing is cost – both services should be free. The broker gets their commission from the bank (and may be incentivised to favour a certain bank because of this), while the banker gets a bulk commission bonus from their bank.
+You will use a mortgage broker or a banker to help you with the mortgage process. There’s no right answer on who’s better, and it really varies. As a first home buyer with a simple financial situation, either option will work for you. The most important thing is cost – both services should be free. The broker gets their commission from the bank (and may be incentivized to favour a certain bank because of this), while the banker gets a bulk commission bonus from their bank.

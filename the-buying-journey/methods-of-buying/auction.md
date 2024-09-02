@@ -2,7 +2,7 @@
 
 ## Auction
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Auctions are where you are pitted against other buyers in a room, and the highest bidder by price has rights to the property. Almost all auctions are unconditional – meaning you are buying the property as-is, having gotten the relevant inspections and approvals prior to raising your hands. Note that bids are binding – auction rooms are not a good place to be indecisive.
 

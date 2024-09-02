@@ -10,13 +10,13 @@ Single housing zones are common within the central isthmus, these suburbs are de
 
 The great thing about these zones is the lack of density and lifestyle – your neighbours won’t be building 3 properties in their backyard, but the bad news is you can’t either.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mixed Suburban Zone
 
 The mixed suburban zone is the most common zoning across Auckland – most of these lots can have 2 story freestanding homes and can be as small as 400m2. This is the typical residential zone. Depending on the area, many mixed suburban zones are being rapidly intensified to make use of the classic 800m2 sections, so a lot of them will have shared driveways and houses reasonably close together.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mixed Urban Zone
 

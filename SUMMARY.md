@@ -17,6 +17,7 @@
 * [Methods of buying](the-buying-journey/methods-of-buying/README.md)
   * [Tender, Negotiation, and Deadline](the-buying-journey/methods-of-buying/tender-negotiation-and-deadline.md)
   * [Auction](the-buying-journey/methods-of-buying/auction.md)
+  * [Private Sale](the-buying-journey/methods-of-buying/private-sale.md)
 * [Going unconditional](the-buying-journey/going-unconditional.md)
 * [Settlement Process](the-buying-journey/settlement-process.md)
   * [Problems with settlement](the-buying-journey/settlement-process/problems-with-settlement.md)

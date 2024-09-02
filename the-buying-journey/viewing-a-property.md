@@ -18,9 +18,13 @@ Feel welcome to request a private viewing from the listing agent. Most will be h
 
 ### Your lifestyle
 
-It’s really important to know and picture how you would life your daily, mundane (let’s be honest) life at the property. We aren’t going to be entertaining our friends every day, we will be going to work, tending to children, cleaning, etc. Therefore, focus on the everyday rather than the “special appeals”. Remember the trade-offs too – a large piece of land is great for kids to play, but not so great when you have to mow it every two weeks in summer – what do you prefer?
+It’s really important to know and picture how you would live your daily, mundane (let’s be honest) life at the property. We aren’t going to be entertaining our friends every day, we will be going to work, tending to children, cleaning, etc. Therefore, focus on the everyday rather than the “special appeals”. Remember the trade-offs too – a large piece of land is great for kids to play, but not so great when you have to mow it every two weeks in summer – what do you prefer?
 
 I say every day because the _transport_ aspect matters a lot. How close is the bus-stop if you work in the city, and how long does the bus take? If you drive, can you easily get to your car in the pouring rain of an Auckland winter, and easily exit on to the road? Can you wash your car without annoying the neighbors in a shared driveway setting?
+
+{% hint style="info" %}
+**Story:** I purchased a 1080sqm land, 280sqm house property in Mount Roskill, it was great for the first year before it dawned on me how much time I spent just cleaning, mowing, weeding, pruning and painting. I am still very happy with what I got, but I am more mindful about wishful lifestyles vs the reality of a corporate job, family life, and needing to spend the weekends cleaning and gardening....
+{% endhint %}
 
 ### The second viewing
 

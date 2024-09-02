@@ -4,6 +4,7 @@
 
 ## The buying journey
 
+* [The visual journey map](the-buying-journey/the-visual-journey-map.md)
 * [Why?](the-buying-journey/why/README.md)
   * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
@@ -16,7 +17,7 @@
 * [Methods of buying](the-buying-journey/methods-of-buying/README.md)
   * [Tender, Negotiation, and Deadline](the-buying-journey/methods-of-buying/tender-negotiation-and-deadline.md)
   * [Auction](the-buying-journey/methods-of-buying/auction.md)
-* [Gone unconditional](the-buying-journey/gone-unconditional.md)
+* [Going unconditional](the-buying-journey/going-unconditional.md)
 * [Settlement Process](the-buying-journey/settlement-process.md)
 * [My tradies and team](the-buying-journey/my-tradies-and-team.md)
 * [Donate / Koha to your community](the-buying-journey/donate-koha.md)

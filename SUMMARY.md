@@ -48,3 +48,4 @@
   * [How to read a title](finance-legal-and-insurance/legal/how-to-read-a-title.md)
 * [Getting a pre-approval](finance-legal-and-insurance/getting-a-pre-approval.md)
 * [Securing the mortgage](finance-legal-and-insurance/securing-the-mortgage.md)
+* [Paying down the mortgage](finance-legal-and-insurance/paying-down-the-mortgage.md)

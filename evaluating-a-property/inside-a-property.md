@@ -5,7 +5,7 @@ This is all you – does it fit your flow? Does it need any renovations? Are the
 Some areas of detail you want to look at include smoke alarms, the paint job, and the kitchen appliances. A home with an owner that doesn’t pay much attention to their building is an invitation for you to drill a bit deeper and ensure everything is as it should be. Some things you should look for:
 
 1. Insulation, ventilation and heating – Where are the heatpumps, and how is the venting?
-2. Doors and windows – Wood or aluminium? Any squeaks or rot?
+2. Doors and windows – Wood or aluminum? Any squeaks or rot?
 3. Floor coverings – Scratches, damage, and how do they look?
 4. &#x20;Electrical and gas – What type of cooking? Does the switchboard look new?
 5. &#x20;Plumbing – How are the tap fittings, bathroom fittings, etc?

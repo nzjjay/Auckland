@@ -12,7 +12,7 @@ The government / local council has really useful websites that are invaluable fo
 
 Due to the 2022 Auckland Floods, the council has created a separate map view of flood risk properties. My advice is if the property is on or very close to a flood plain, etc – you need to be careful.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Auckland Council GIS Viewer
 

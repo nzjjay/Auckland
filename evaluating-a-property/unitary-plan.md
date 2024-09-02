@@ -10,7 +10,7 @@ Single housing zones are common within the central isthmus, these suburbs are de
 
 The great thing about these zones is the lack of density and lifestyle – your neighbours won’t be building 3 properties in their backyard, but the bad news is you can’t either.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Mixed Suburban Zone
 

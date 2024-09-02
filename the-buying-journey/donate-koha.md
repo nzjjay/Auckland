@@ -1,8 +1,14 @@
-# Donate / Koha
+# Donate / Koha to your community
 
 
 
-This guide is my **gift** to you. However, if you really enjoyed it, gained value from it, and want to give back, please do so by sharing this with others who'll find it helpful, and giving back to your community..
+This guide is my **gift** to you. However, if you really enjoyed it, gained value from it, and want to give back, please do so by sharing this with others who'll find it helpful, and giving back to your community...
+
+
+
+{% hint style="warning" %}
+If you have a mortage or about to get one, I suggest **not donating money**, and instead **donate your time** - your bank, mortgage balance, and the city mission will all thank you. Every dollar counts.
+{% endhint %}
 
 ## Support Auckland's City Mission reducing homelessness
 

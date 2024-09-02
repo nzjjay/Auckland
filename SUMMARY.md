@@ -19,7 +19,7 @@
 * [Gone unconditional](the-buying-journey/gone-unconditional.md)
 * [Settlement Process](the-buying-journey/settlement-process.md)
 * [My tradies and team](the-buying-journey/my-tradies-and-team.md)
-* [Donate / Koha to your community](the-buying-journey/donate-koha-to-your-community.md)
+* [Donate / Koha to your community](the-buying-journey/donate-koha.md)
 
 ## Evaluating a Property
 

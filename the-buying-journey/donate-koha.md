@@ -7,7 +7,7 @@ This guide is my **gift** to you. However, if you really enjoyed it, gained valu
 
 
 {% hint style="warning" %}
-If you have a mortage or about to get one, I suggest **not donating money**, and instead **donate your time** - your bank, mortgage balance, and the city mission will all thank you. Every dollar counts.
+If you have a mortgage or about to get one, consider **not donating money**, and instead **donate your time** - every dollar counts for you as well, and your time is invaluable for the City Mission.
 {% endhint %}
 
 ## Support Auckland's City Mission reducing homelessness

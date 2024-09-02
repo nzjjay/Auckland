@@ -12,7 +12,7 @@ To purchase the property, there's a somewhat complex web of financial transactio
 
 Let's use an example. Say you purchase a $1,500,000 property, with a 20% LVR deposit at auction. This means the bank will lend $1.2M (80%), and you must provide 300K (20%). On the fall of the hammer, you will pay a 10% deposit as required in the S\&P to the vendor - so this is $150,000. On the settlement date, the bank will move the 1.2M, and you need to move the remaining 10% - so another $150K. All together this makes up the 1.5M that the vendor recieves for the property - 150K deposit, and $1,350,000 final payment.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ## Pre-Settlement Inspection
 

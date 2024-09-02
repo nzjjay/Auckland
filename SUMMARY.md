@@ -18,7 +18,7 @@
   * [Tender, Negotiation, and Deadline](the-buying-journey/methods-of-buying/tender-negotiation-and-deadline.md)
   * [Auction](the-buying-journey/methods-of-buying/auction.md)
 * [Going unconditional](the-buying-journey/going-unconditional.md)
-* [Settlement Process](the-buying-journey/settlement-process/README.md)
+* [Settlement Process](the-buying-journey/settlement-process.md)
   * [Problems with settlement](the-buying-journey/settlement-process/problems-with-settlement.md)
 * [My tradies and team](the-buying-journey/my-tradies-and-team.md)
 * [Donate / Koha to your community](the-buying-journey/donate-koha.md)

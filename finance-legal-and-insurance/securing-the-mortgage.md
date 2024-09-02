@@ -45,3 +45,7 @@ We live in a capitalist society – be transparent and promiscuous with every ba
 ### Carded Interest Rates
 
 The rate you see advertised at a bank is what’s called the “carded” interest rate. In reality, the actual interest rate can be significantly lower. ANZ in generally offer their customers 6 basis points lower than the carded rate, and up to 75 basis points on floating rates. The banks create this opaque rate system to prevent other banks from competing with them. Basically, don’t say yes to the rate that’s plastered all over their walls, and don't feel chuffed when they give you a lower offer - someone is getting lower still.
+
+### Reserve Rate Agreement
+
+The RRA is a very important document - you are reserving an interest rate, and the minute you sign this, you're agreeing to bank with the bank. Only sign this document when you are ready to commit to the bank.

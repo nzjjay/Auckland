@@ -5,6 +5,7 @@
 ## The buying journey
 
 * [Why?](the-buying-journey/why/README.md)
+  * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
 * [Government websites you should use](the-buying-journey/government-websites-you-should-use.md)
 * [Other useful websites](the-buying-journey/other-useful-websites.md)

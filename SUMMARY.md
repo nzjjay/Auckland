@@ -45,7 +45,7 @@
 
 ## Finance, Legal, and Insurance
 
-* [Home Insurance](finance-legal-and-insurance/home-insurance.md)
+* [Home Insurance](finance-legal-and-insurance/insurance.md)
 * [Legal](finance-legal-and-insurance/legal/README.md)
   * [How to read a Particulars and Conditions of Sale](finance-legal-and-insurance/legal/how-to-read-a-particulars-and-conditions-of-sale.md)
   * [How to read a LIM](finance-legal-and-insurance/legal/how-to-read-a-lim.md)

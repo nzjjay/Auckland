@@ -4,7 +4,7 @@
 
 ## The buying journey
 
-* [The visual journey map](the-buying-journey/the-visual-journey-map.md)
+* [Your buying journey](the-buying-journey/your-buying-journey.md)
 * [Why?](the-buying-journey/why/README.md)
   * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)

@@ -1,31 +1,31 @@
 # Buying instead of renting
 
-## The math doesn't work out buying instead of renting
+## Buying is more expensive than renting
 
-There are several benefits to owning a house instead of renting one to live in, but I want to dispel the theory that owning a house is financially better than renting - this is my opinion only, but here's my take:
+Let's get this out of the way first. If we look at buying vs renting as a purely financial decision based on the next day, in my opinion, buying is far more expensive. Let me prove this out with math:
 
-Example: A $1 Million entry level / first home buyer property in Mount Roskill. The rental valuation on these is usually around $800 a week, **so $41,600 a year is what we target for break-even.**
+**Scenario:** $1 Million townhouse in New Lynn, rent of $800 a week. If buying, 20% deposit.
 
-So on a $1M property, at 20% LVR, you are required to pay a 20% deposit, and the bank will lend you 80%. Therefore, the following applies:
+**Opportunity cost of interest:** Remember that the money you invest can earn a return, so over time, as you pay down the house, you forgo the opportunity to invest that money elsewhere. For the purposes of this example, I will be assuming that the interest on mortgage = interest earned on savings, which is never the case (savings is always lower), but even then...
 
-1. Borrowing 800K @ 6% = $48,000
-2. Sacrificing investing 200K @ 4% = $8000 (before tax)
 
-Therefore, by choosing to invest your money in the house and borrow to buy the house, you are paying **$56,000** a year (the cost of interest on 800K + the cost of not earning interest on the 200K).
 
-Then add-on mandatory rates, insurance, and home maintenance (let's say 7k all up), you'll be paying $63,000 a year, in the first year, give or take, for your home. This means you're better off by $20,000 a year to rent. How much do you hate your landlord?
+| Cost                        | Buying  | Renting |
+| --------------------------- | ------- | ------- |
+| Rent                        | $0      | $41,600 |
+| Interest / Interest forgone | $55,900 | $0      |
+| Rates                       | $2,800  | $0      |
+| Insurance                   | $1,300  | $0      |
+| Maintenance Fund            | $2000   | $0      |
+| Total                       | $62,000 | $41,600 |
 
-Now over time the biggest cost (interest) will reduce but remember that it's your savings you are putting into the house, so in theory you'd invest this instead of having the mortgage, let's assume you put it into term deposits at 4%.
+How much do you hate your landlord?
 
-1. 1M @ 4% = $40,000, $28.8K after tax at 28% PIE rate.
-2. $7000 for rates, insurance, and maintenance.
-3. Total cost = $47K
+## Capital Gain
 
-In this best-case scenario, you're still paying $47K a year in forgone interest on savings and mandatory outgoings, compared to the $42K or so you'd pay renting.
+Properties change in value over time, that's a given, but this can be either direction. Properties in Auckland have historically increased in value for a variety of factors, so this does need to be factored in to your financial calculations - how much do you think your property will appreciate or depreciate over time?&#x20;
 
-### Caveats
-
-There's a lot of assumptions here, this assumes no capital appreciation, that rents don't increase, etc. However, remember depreciation is a thing as well (just ask anyone that purchased in 2021 trying to sell in 2024), and other costs go up (just ask the Mayor of Auckland how rates are going). So this is very back of the napkin math.
+In the example above, the property would need to appreciate by about 2% per year in perpetuity to break-even, assuming all-else remains same.
 
 ## It's not the financials you need to consider
 

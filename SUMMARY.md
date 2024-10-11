@@ -4,7 +4,7 @@
 
 ## The buying journey
 
-* [Your buying journey](the-buying-journey/your-buying-journey.md)
+* [Your buying journey](the-buying-journey/the-visual-journey-map.md)
 * [Why?](the-buying-journey/why/README.md)
   * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
@@ -45,7 +45,7 @@
 
 ## Finance, Legal, and Insurance
 
-* [Insurance](finance-legal-and-insurance/insurance.md)
+* [Home Insurance](finance-legal-and-insurance/home-insurance.md)
 * [Legal](finance-legal-and-insurance/legal/README.md)
   * [How to read a Particulars and Conditions of Sale](finance-legal-and-insurance/legal/how-to-read-a-particulars-and-conditions-of-sale.md)
   * [How to read a LIM](finance-legal-and-insurance/legal/how-to-read-a-lim.md)

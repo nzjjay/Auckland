@@ -16,6 +16,10 @@ Concrete or clay tiles are very popular. Tiles are also very durable and long la
 
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
+### Bitumen
+
+I've recently discovered residental properties with bitumen roofs. I don't know much about these...&#x20;
+
 ## Guttering
 
 ### External Gutters

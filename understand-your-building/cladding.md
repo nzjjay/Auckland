@@ -2,21 +2,25 @@
 
 The cladding is the exterior material used on the outside of the framing to cover the sides of your house and make it watertight. If the cladding fails, you’re in big trouble. If you don't know what you're doing, call in a building report. However, you should get pretty good at telling what type of cladding a house has, because the price will be reflected accordingly.
 
+{% hint style="warning" %}
+**Reclad:** Be very careful around properties that have been "re-clad" from one material to another. Properties are very rarely re-clad for just aesthetic reasons. The LIM report will indicate if this has occurred. My opinion is to take the worst opinion of the old and new claddings (e.g. if it was previously stucco and now timber, evaluate it as a stucco property).
+{% endhint %}
+
 ## Timber / Weatherboard
 
-The most common building material in New Zealand. Weatherboard looks good and is good for the New Zealand weather – it’s also easy to renovate and customise. Be warned wood can rot and requires regular maintenance (like painting). Most kiwis love the weatherboard look, so check the wood is good, don’t confuse it with hardy planks, and enjoy it.
+The most common building material in New Zealand. Weatherboard looks good and is good for the New Zealand weather – it’s also easy to renovate and customize. Be warned wood can rot even if its been treated and requires regular maintenance (like painting). Most kiwis love the weatherboard look, so check the wood is good, don’t confuse it with hardy planks, and enjoy it.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Brick and Tile
 
-Brick and tile properties are low maintenance are quite common from the 1960s and onwards. They’re a bit harder to renovate with, and insulation can be questionable sometimes, but it can be set and forget.
+Brick and tile properties are low maintenance are quite common from the 1960s and onwards. They’re a bit harder to renovate with, and insulation can be questionable sometimes, but it can be set and forget. There's a reason why the elderly love these homes, and for good reason.
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## PVC / Palliside
 
-A relatively new concept – cladding made of PVC plastic. They’re cheap, pretty durable, and don’t require much maintenance. They look almost identical to weatherboard from a distance. The problem is ofcourse, people may have a hard time getting over their property being covered in PVC. Do your due diligence. Knock on the “wood” to discover what the cladding is.
+A relatively new concept – cladding made of PVC plastic. They’re cheap, pretty durable, and don’t require much maintenance. They look almost identical to weatherboard from a distance. The problem is of course, people may have a hard time getting over their property being covered in plastic. Do your due diligence. Knock on the “wood” to discover what the cladding is.
 
 ## Hardie Planks / Fibre Cement
 

@@ -1,17 +1,23 @@
----
-description: What's going to happen from here to buy your home
----
-
 # Your buying journey
 
-This guide is structured so that you can read it end-to-end, or refer back to it for guidance when you need it. There's three parts to buying a house:
+## Step by Step
 
-1. The process involving the sale and purchase of a property
-2. The overall property
-3. The building itself
-4. The financials, legals, and paperwork involved
+Buying your home is a step by step process, and this book tries to mirror it every step of the way. Here's what we're going to cover:
 
-My advice would be to read section one now to get your head in the game, two & three when you're more serious about a property, and four when you're ready to make an offer. &#x20;
+1. Is buying a house right for you?
+2. Why buy instead of rent, and what about rental property?
+3. Getting the bank pre-approval so you can confidently start searching.
+4. Deciding what you want in a home.
+5. How to search for, shortlist and view properties.
+6. How to make an offer or win the home at auction.
+7. What the settlement process looks like
+8. The bank financials
+9. The settlement day
+10. Home maintenance
 
-The buying journey will vary - patience is key. Sometimes you'll get lucky and find your perfect property first time, other times you'll be searching for upwards of 9 months.&#x20;
+
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+
 

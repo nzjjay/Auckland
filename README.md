@@ -1,27 +1,13 @@
-# Welcome
+# Foreword
 
-Kia Ora and Welcome.
+Kia Ora and Welcome,
 
-If you're looking to buy a property in Auckland, this guide is my gift to you, to help you on what can be quite a stressful and complex journey. I created this guide for myself to document my property buying journey, having learned the hard way through trial and error buying multiple properties in Auckland. Over time my friends kept asking me for advice, and so I published this mini-book to give you a comprehensive guide on buying the best property for your needs.&#x20;
+If you're reading this, you're part of a very special friend group that's getting a pre-read of my upcoming book called Buying Property in Auckland: The Guide, coming to all good bookstores and ofcourse Amazon, very soon.
 
-Hopefully it helps you with your own property journey and give you the foundations to point you in the right direction.
+I purchased my first home at 25, and fell in love with both buying houses, and the whole complicated and stressful experience that is buying a home, having learned the hard way through trial and error. Being one of the first in my friend group to do so, I spent a lot of time counselling my friends on their successful property journeys, and realizing most of what I said repeated, decided to write it all up into one big word document, this is now the final state - an entire book on the topic, so anyone that wants to buy in Auckland can come away with, hopefully a bit more knowledge.
 
-Auckland has more than one million properties with incredible diversity across a large geographic area. Nearly every property is unique, and every property has a story. By understanding some of the features of property, you’ll gain a better understanding of how to find, value, and buy the property for you.
+In this book, I'll cover the main elements of buying a property from the shoes of you and I - a typical buyer in Auckland. I'm not a financial advisor, legal person, or a real estate agent. Much of what I'll say is my own hard experience, and some I will defer you to seek expert advice if you need it (because, this will be the most expensive purchase of your life so far).
 
-The most important thing you should take away from this booklet as you look for property is:
-
-_**“There are no bargains in Auckland”**_
-
-Good luck,\
+Best,\
 Jay
 
-## The guide
-
-I've tried to write the guide in four sections that follow one after each other -&#x20;
-
-1. The buying journey - starting the search and buying a house
-2. Evaluating a property - What to look at when interested in a property
-3. Evaluating the house itself - Some lessons around construction
-4. Finance, legal, and insurance - The boring but important stuff
-
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>

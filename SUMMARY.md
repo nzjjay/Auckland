@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Foreword](README.md)
 
 ## The buying journey
 
@@ -8,9 +8,9 @@
 * [Why?](the-buying-journey/why/README.md)
   * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
   * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
+* [What do you want in a home](the-buying-journey/what-do-you-want-in-a-home.md)
 * [Government websites you should use](the-buying-journey/government-websites-you-should-use.md)
 * [Other useful websites](the-buying-journey/other-useful-websites.md)
-* [Creating a shortlist](the-buying-journey/creating-a-shortlist.md)
 * [Viewing a property](the-buying-journey/viewing-a-property.md)
 * [Dealing with real estate agents](the-buying-journey/dealing-with-real-estate-agents.md)
 * [Preparing to buy](the-buying-journey/preparing-to-buy.md)

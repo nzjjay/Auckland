@@ -1,6 +1,12 @@
 # Viewing a property
 
-Stating the obvious - viewing a property is critical as part of the buying process. Most homes will have open homes between 11am - 3pm on weekends, or can be viewed by appointment. Do not hesitate to message agents asking for private viewings, or to spend a considerable amount of time at a property. You will learn that after a while you can cover houses in about 15 minutes.
+### The drive-by
+
+A hot hack I have between shortlisting and viewing properties, is the drive-by. I stack the 5-10 houses I have on the shortlist, and simply drive to each of them in one go to see if I like the look of the house, street and area. You'll be surprised at how many houses can get knocked off your list just by doing this. Common reasons for me include being next to power pylons, a townhouse development happening next door, and just the "vibe" of the street - trust your gut.
+
+## The viewing
+
+Whether or not you do a drive-by, homes will have open homes between 11am - 3pm on weekends, or can be viewed by appointment. Stating the obvious, but DO NOT ever consider buying a house without seeing it in person. Do not hesitate to message agents asking for private viewings, or to spend a considerable amount of time at a property. You will learn that after a while you can cover houses in about 15 minutes.
 
 Personally, I prefer open homes because it lets you see what other people are noticing – I once saw a few people staring intently at the bathroom ceiling, drawing my attention to the lack of an extractor fan and subsequent mould formation!
 

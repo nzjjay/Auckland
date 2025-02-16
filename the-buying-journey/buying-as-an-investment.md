@@ -1,6 +1,6 @@
 # Buying as an investment
 
-If you already own a home and are looking to purchase property for investment reasons, your reason for buying property is obviously different. Some things you should consider:
+If you already own a home and are looking to purchase property for investment reasons, or you want to park your money into property as an investment, your reason for buying property is obviously different. Some things you should consider:
 
 1. Properties will require more of your time to manage and is an active investment, compared to say a term deposit where you can "set and forget" - are you ready for this increased time commitment?
 2. There are strict regulations around tenancies and houses in general, it's more akin to a small business than a passive investment - are you aware of this?

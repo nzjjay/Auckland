@@ -27,6 +27,8 @@ Properties change in value over time, that's a given, but this can be either dir
 
 In the example above, the property would need to appreciate by about 2% per year in perpetuity to break-even, assuming all-else remains same.
 
+There's a misconception amongst every single Aucklander you'll meet - that Auckland properties always go up. Remember investing 101 - past performance does not guarantee future returns. Ask anyone that purchased in 2021 how their home is valued in 2025.
+
 ## It's not the financials you need to consider
 
 In writing all this, owning your home has several benefits, and the emotional side of it matters the most, for example:

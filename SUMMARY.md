@@ -5,9 +5,10 @@
 ## The buying journey
 
 * [Your buying journey](the-buying-journey/the-visual-journey-map.md)
-* [Why?](the-buying-journey/why/README.md)
-  * [Buying instead of renting](the-buying-journey/why/buying-instead-of-renting.md)
-  * [Buying as an investment](the-buying-journey/why/buying-as-an-investment.md)
+* [Why?](the-buying-journey/why.md)
+* [Buying instead of renting](the-buying-journey/buying-instead-of-renting.md)
+* [Buying as an investment](the-buying-journey/buying-as-an-investment.md)
+* [Getting a pre-approval](the-buying-journey/getting-a-pre-approval.md)
 * [What do you want in a home](the-buying-journey/creating-a-shortlist.md)
 * [Searching for and shortlisting property](the-buying-journey/searching-for-and-shortlisting-property.md)
 * [Viewing a property](the-buying-journey/viewing-a-property.md)
@@ -51,6 +52,5 @@
   * [How to read a Particulars and Conditions of Sale](finance-legal-and-insurance/legal/how-to-read-a-particulars-and-conditions-of-sale.md)
   * [How to read a LIM](finance-legal-and-insurance/legal/how-to-read-a-lim.md)
   * [How to read a title](finance-legal-and-insurance/legal/how-to-read-a-title.md)
-* [Getting a pre-approval](finance-legal-and-insurance/getting-a-pre-approval.md)
 * [Securing the mortgage](finance-legal-and-insurance/securing-the-mortgage.md)
 * [Paying down the mortgage](finance-legal-and-insurance/paying-down-the-mortgage.md)

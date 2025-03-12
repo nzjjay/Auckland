@@ -28,6 +28,7 @@
 
 ## Evaluating a Property
 
+* [The areas of Auckland](evaluating-a-property/the-areas-of-auckland.md)
 * [Titles and Ownership](evaluating-a-property/titles-and-ownership/README.md)
   * [Causes of Concern](evaluating-a-property/titles-and-ownership/causes-of-concern.md)
 * [Unitary Plan](evaluating-a-property/unitary-plan.md)

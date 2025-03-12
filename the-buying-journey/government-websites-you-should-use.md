@@ -6,6 +6,12 @@ description: These government sites are incredibly helpful sources of informatio
 
 The government / local council has really useful websites that are invaluable for your property search. In fact these are what I immediately look at whenever I see a property I have any interest in. Save these for future reference.
 
+## School Zones
+
+{% embed url="https://www.educationcounts.govt.nz/find-school" %}
+
+The school zone map from the Ministry of Education gives you an easy map to see what zones your property is located within for schooling. This will play an important role if you have children as what school they go to, especially in the public school system, has a major influence on their childhood.
+
 ## Auckland Flood Viewer
 
 [Experience (arcgis.com)](https://experience.arcgis.com/experience/cbde7f2134404f4d90adce5396a0a630)

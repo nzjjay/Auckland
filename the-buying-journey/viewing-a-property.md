@@ -11,7 +11,7 @@ Whether or not you do a drive-by, homes will have open homes between 11am - 3pm 
 Personally, I prefer open homes because it lets you see what other people are noticing – I once saw a few people staring intently at the bathroom ceiling, drawing my attention to the lack of an extractor fan and subsequent mould formation!
 
 {% hint style="info" %}
-To get some tips on what to look for at viewings, refer to [https://guide.meethouses.com/evaluating-a-property/outside-a-property](https://guide.meethouses.com/evaluating-a-property/outside-a-property) (Outside) and [ ](https://guide.meethouses.com/evaluating-a-property/inside-a-property)[https://guide.meethouses.com/evaluating-a-property/inside-a-property](https://guide.meethouses.com/evaluating-a-property/inside-a-property) (Inside).
+Read the Evaluating a property section for more details on what to look for.
 {% endhint %}
 
 ### Open homes

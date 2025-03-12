@@ -6,11 +6,11 @@ Unfortunately, there can be some agents that can cause issues for you. As a firs
 
 ## Buying agents
 
-Most real estate agencies will have buying agents, who will assist serious buyers with their house hunting needs and keep an eye out for properties that suit their client’s needs. Most buying agents will only work with serious clients because they are only paid by commission when you buy through them and are usually free for you. Although you don’t need a buying agent, and most buying agents will not work well with first home buyers, you may come across an agent that’s willing to help you. In this case the relationship works both ways – contact them first for any property you want to see, as they can only claim the commission if they are with you when you visit the property for the first time.
+Most real estate agencies have buying agents who help serious buyers find suitable properties. They work on commission, so they usually only assist committed clients and are free for buyers. While you don’t need a buying agent—and many don’t work well with first-home buyers—you might find one willing to help. If you do, always contact them first before viewing a property, as they only earn a commission if they’re with you on your first visit.
 
 ## Selling agents
 
-Selling agents, or listing agents, are agents who list properties on the market. These agents work for the seller and are only incentivised by the seller.&#x20;
+Selling agents, or listing agents, are agents who list properties on the market. These agents work for the seller and are only incentivized by the seller.&#x20;
 
 ## Good things to know
 

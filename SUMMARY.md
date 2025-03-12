@@ -51,7 +51,7 @@
 * [Home Insurance](finance-legal-and-insurance/insurance.md)
 * [Legal](finance-legal-and-insurance/legal/README.md)
   * [How to read a Particulars and Conditions of Sale](finance-legal-and-insurance/legal/how-to-read-a-particulars-and-conditions-of-sale.md)
-  * [How to read a LIM](finance-legal-and-insurance/legal/how-to-read-a-lim.md)
+  * [The LIM Report](finance-legal-and-insurance/legal/the-lim-report.md)
   * [How to read a title](finance-legal-and-insurance/legal/how-to-read-a-title.md)
 * [Securing the mortgage](finance-legal-and-insurance/securing-the-mortgage.md)
 * [Paying down the mortgage](finance-legal-and-insurance/paying-down-the-mortgage.md)

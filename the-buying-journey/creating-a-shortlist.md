@@ -4,15 +4,17 @@ Searching for and shortlisting properties is one of the first things you'll be d
 
 ## Look around to see what you like
 
-Start your search and shortlist stage by doing a drive-around (or walk) in neighborhoods you're interested in, take note of what you like and don't like. Visit a few open homes with a totally open mind just to get a sense of what you "vibe" with and don't. Soon, you'll start to form a view of what you must have, should have, and could have in a home. A rough idea is fine.
+Start your search and shortlist by taking a drive or walk around neighborhoods you're interested in. Pay attention to what you like and dislike about each area. Visit a few open homes with an open mind to get a feel for the types of properties that suit you and those that don’t. Over time, you’ll start to form a sense of what you _must have_, _should have_, and _could have_ in a home. A rough idea is perfectly fine at this stage.
 
-You can also browse property websites like Trademe Property and homes.co.nz to get a view of properties on the market, what they're selling for, and just get a general sense of the property market to form your views.
+You can also browse property websites like Trademe Property and homes.co.nz to get a sense of what’s on the market, what properties are selling for, and help you better understand the current property market. This will help you refine your views as you continue your search.
 
 ## Write down what you must and could haves.
 
-Once you've formed a view of what you want, write it down on a piece of paper with bullet points. This is going to serve you well over your search. This may change as you search more, but it's totally fine. Over time, you may start getting desperate when properties don't meet your needs or in the price range, and you'll start to try compromise on this list. I have conflicting thoughts on this - in some cases you may genuinely need to reset your own expectations, but in other cases, be fair and firm - this is your biggest purchase yet, and you'll spend most of your life for the next few years within it, so don't compromise.
+Once you’ve figured out what you want, write it down in bullet points. This list will serve as a helpful guide throughout your search. It might change as you go, and that’s totally fine. However, as you keep looking and properties don’t meet your needs or are out of your price range, you might feel the urge to compromise.
 
-Remember, always write the _why_ next to your shortlist, so you can always reflect on why it's there in the first place, it's a good idea in case you want to take something off the list.
+I have mixed feelings on this—sometimes, you may genuinely need to adjust your expectations. But, in other cases, stand firm. This is your biggest purchase yet, and you'll likely spend a lot of time in this home over the next few years, so don’t settle for less than what’s important to you.
+
+Also, remember to write down _why_ each point is on your list. It’s a great way to reflect on what’s truly important, and it’ll help if you ever need to reassess or remove something from the list.
 
 This is how I wrote mine:
 

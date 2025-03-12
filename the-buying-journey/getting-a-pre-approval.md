@@ -1,33 +1,35 @@
 # Getting a pre-approval
 
+If you're filthy rich with a spare million sitting in the bank, you can skip this section. But for the rest of us, the first step before diving into house hunting is to talk to your bank or a mortgage broker and get a home loan pre-approval.
 
-
-You've decided to buy a house, great! If you are filthy rich and have a cool million dollars sitting in your bank, you can skip this section altogether, but if you're like the rest of us, before you get carried away looking at houses, the first thing you'll need to do is go talk to your bank or a broker and get a **home loan pre-approval**, which is a formal process with your bank that gives you a pre-approved lending amount with a lot of conditions attached that ultimately tells you how much you can borrow from the bank for your home, and therefore, your budget.
+A pre-approval is a formal process where the bank assesses your finances and gives you a conditional lending amount. This tells you how much you can borrow—and ultimately, what your budget is. Keep in mind that pre-approvals come with conditions, so while they give you a solid starting point, they’re not a guarantee of final approval when you find a house.
 
 ### Banker or Broker?
 
-The age old question, and truth be told, there's no right answer.  Speak to a bank or broker. At this stage in the process, my suggestion is to reach out to your current bank (if you "like" them). The reason is - at this stage in your buying process, banks are non-exclusive, and you can pick and choose any or multiple to go with later. Many brokers will ask you to sign a exclusivity deal with them, meaning you have to go with them for financing in exchange for their advice and service or have a clawback. It's totally up to you, but do your homework on what you need at this early stage in the process.
+There’s no right answer, but the best approach is to speak to both and decide what works for you.
 
-All major banks have what they call in some form, a "Home Loan Coach" or "Mobile Mortgage Manager". These helpful folks are employees of the bank, know their specific banks inside out, and can give you very bespoke and tailored advice. In fact, my banker, Alex, went above and beyond to help me secure my first dream home, and without his tenacity and speed being a bank employee, I would have lost the house at auction. &#x20;
+At this stage, I recommend reaching out to your current bank (if you _like_ them). Banks are non-exclusive at this point, meaning you can compare options later. Brokers, however, often ask you to sign an exclusivity agreement, which locks you into using them for financing in exchange for their advice and service. This isn’t necessarily a bad thing, but make sure you understand the terms before committing.
 
-Brokers on the other hand, are independent of banks, and work for themselves in a loose sense, they get a commission from the bank to sell you the home loan product (it can be about 0.85% of the total lending). Brokers can be handy because different banks have different policies and rules, and brokers can sometimes be an emotional "wall" between you and the bank. Sometimes its easier to let the broker explain to the bank you'll cut down your food delivery expenditure once you have the home loan.
+All major banks have _Home Loan Coaches_ or _Mobile Mortgage Managers_. These in-house experts know their bank’s products inside out and can offer tailored advice. My banker, Alex, went above and beyond to help me secure my first home—his speed and persistence made all the difference at auction.
+
+Brokers, on the other hand, are independent and work across multiple banks. They earn a commission (typically around 0.85% of the loan) but can be useful because they understand different bank policies and can navigate tricky lending criteria. They can also act as a buffer between you and the bank—sometimes, it’s easier for a broker to explain that you _will_ cut back on Uber Eats once you have a mortgage!
 
 ### What do I need for a pre-approval?
 
-Regardless of if you go to the bank directly, or a broker, they'll need the same set of documents, as part of the credit checks, to assess how much you can borrow. Things they'll want to know:
+Whether you go through a bank directly or use a broker, you’ll need to provide the same set of documents for the bank’s credit check to assess how much you can borrow. Here’s what they’ll want:
 
-1. Your income (Have atleast 3-6 months of payslips and your employment agreement)
-2. Your household situation post loan (e.g. will you be flatting, kids, etc)
-3. Your current expenses that indicate what your outgoings will be like (a complex area, but basically, be truthful to the bank)
-4. How much you're asking to borrow from them and if you have any security (e.g. deposits, other homes, etc)
+* **Your income**: Have at least 3-6 months of payslips and your employment agreement.
+* **Your household situation**: Let them know if you’ll be flatting, have kids, or any other significant changes.
+* **Current expenses**: Be truthful about your spending habits; this gives the bank an idea of your outgoings.
+* **How much you want to borrow**: Plus, any assets or security you have, such as savings or other properties.
 
-Using these, the bank will give you a generic pre-approval for a set amount. This is their total **lending** they'll offer you, it is conditional on many things they'll set out in the letter, but basically, the amount they'll lend plus your deposit is your maximum budget for a property you want to buy.
+Once you provide this, the bank will issue a generic pre-approval for a set amount. This is conditional on several factors, which will be detailed in the pre-approval letter, but it essentially sets your maximum budget for a property—this amount plus your deposit.
 
-Once you find a house you like, the bank will take it into consideration and give you a _final_ maximum lending amount for that specific property. There's many reasons for this, including ensuring you don't overspend (e.g. using 1 mil of lending to pay 1.2 mil for a home only worth 800k), and verifying the home itself isn't going to be a money sink (e.g. leaky).
+When you find a property, the bank will reassess the house itself and provide a final lending amount based on that specific property. They do this to ensure you don’t overpay for a house (e.g., borrowing $1 million for a house worth $800,000) and to make sure the home isn’t going to be a money pit (e.g., leaky homes).
 
-You only need **one** pre-approval to get started, you don't need to take out lending with the bank that initially gave you pre-approval, and remember, the pre-approval can change or be withdrawn at any time, especially if your circumstances change!
+You only need one pre-approval to start your search, and remember, you don’t have to borrow from the bank that gave you the pre-approval. Keep in mind that pre-approvals can be changed or withdrawn, especially if your financial situation changes.
 
-On pre-approval, you will get a formal letter advising you of what amount you can borrow and what conditions are attached to the lending. Remember, this is just general lending. You still need to talk to the bank about each and every property you want to borrow that money on.
+With pre-approval, you’ll receive a formal letter stating the amount you can borrow and the conditions attached. But remember, this is just a general amount—you still need to talk to the bank about each specific property before they finalize the lending.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>An example of a home loan letter</p></figcaption></figure>
 
@@ -41,8 +43,10 @@ You’ll hear about “LVR” a lot, this standards for Loan Value Ratio. A LVR 
 
 ### DTI (Debt to Income Ratio)
 
-A debt-to-income (DTI) ratio compares your total debt to your gross income. It's a key factor that lenders use to determine your financial stability and your ability to repay a loan. To calculate the DTI, add up all your debts, including the proposed debt / amount you want to borrow, and divide it by your total income. If you have a partner, use the cumulative numbers. Banks will generally look at 6-7x DTI, you don't want to be borrowing much more on top of your income.
+A debt-to-income (DTI) ratio compares your total debt to your gross income and is a crucial factor that lenders use to assess your financial stability and ability to repay a loan. To calculate your DTI, add up all your debts, including the proposed loan amount, and divide that by your total income. If you have a partner, use both your incomes combined. Generally, banks will look for a DTI ratio of 6-7 times your income. Borrowing much more than that can make lenders hesitant, as it suggests you might be taking on too much debt compared to your earnings. Remember DTI is a Reserve bank of New Zealand lever that's pulled to ensure we keep the economy and borrowers safe. Too much debt compared to your income is generally a bad idea.
 
 ### Free Cash Flow
 
-The proper accountants will be mad at me for using this terminology, but it sticks in a personal accounting sense. The banks will look closely at your after tax income coming in, and monthly subscriptions, and expenses that cannot be avoided going out with a buffer for little one of expenses. This essentially calculates your savings, which you will be using to contribute to your home loan. If you are making $4000 after tax per month, but spending $3800, the bank will find it hard to justify lending you money where the monthly repayments are greater than $200.&#x20;
+The proper accountants might cringe at this terminology, but it gets the point across in a personal sense. When assessing your loan application, banks will closely examine your after-tax income, monthly subscriptions, and unavoidable expenses, leaving a buffer for any other minor costs. Essentially, they’ll calculate your savings, which will go toward your home loan.
+
+For example, if you’re earning $4,000 after tax per month but spending $3,800, the bank will find it tough to justify lending you money for a loan with monthly repayments higher than $200. Your savings need to show enough room for these repayments, and if your income is mostly going out on expenses, it makes it harder for banks to approve you for a larger loan.

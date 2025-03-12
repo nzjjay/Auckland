@@ -40,12 +40,20 @@ Your lawyer needs to give you guidance on if you should proceed or not. They wil
 
 ## Building Reports
 
-Be pragmatic about building reports. As a first home buyer going to mostly unconditional auctions, you have limited funds, and are justifiably uninformed about buildings. At $700+ per report, you can become very poor very fast if you get a report on every house you’re attempting to buy (and subsequently lose during the offer or auction). Use common sense when it comes to these reports and use them sparingly. If you’re buying a brand-new townhouse / new build with a 10 year master builder warranty from a reputable builder, you may have a different need to if you’re looking at a 1910s villa that looks like a bad do-up, you definitely want a builder to come in and take a look.
+As a first-time home buyer, particularly when dealing with mostly unconditional auctions, it’s easy to get overwhelmed with the cost of building reports. At $700 or more per report, you could find yourself spending a significant amount of money without even winning the property. It’s important to be strategic and pragmatic about when and how you use building reports.
 
-For all conditional offers, make sure building reports are a condition of sale - your lawyer will help with this.
+1. **Know When to Skip**:
+   * If you're looking at a **new build** with a reputable builder and a 10-year Master Builder warranty, you may not need a building report at all. These properties tend to be in good condition, and the warranty covers you for major defects.
+   * On the other hand, if you’re looking at a **1910s villa** that needs work, getting a building report becomes essential. Older homes may have hidden issues like structural damage, asbestos, or leaks that could cost you a lot to fix.
+2. **Conditional Offers and Building Reports**:
+   * When making **conditional offers**, always ensure that a building report is part of the condition of sale. This way, you’ll be able to walk away from the deal if the report reveals issues that you’re not willing to take on. Your lawyer will help you with the proper wording in the agreement to ensure you're covered.
+3. **Arranging the Report**:
+   * After your offer is accepted (and subject to your conditions), arrange for a builder to conduct the inspection. This will usually be coordinated with the listing agent to gain access to the property.
+   * Ideally, find a builder who will let you join them during the inspection. This allows you to learn what to look out for and can save you money down the line by helping you spot basic issues yourself.
+4. **Focus on the Big Picture**:
+   * Building reports can be exhaustive, but remember that **no property is perfect**. Builders are trained to spot every small imperfection, and they’ll report them all, even if they’re minor and fixable.
+   * The key is to focus on the **major issues**. If the report reveals significant structural problems, water damage, or other costly repairs, this could be a red flag. But if it’s mostly minor cosmetic issues or things that don’t affect the structural integrity, you might decide they’re worth accepting.
+5. **Assess Your Comfort Level**:
+   * Ultimately, it’s about your comfort level. Are you okay with the repairs presented, or are you willing to negotiate on price based on the findings? If you’re comfortable with the minor repairs or know you’re prepared to take on the work, it could be a good opportunity. If not, it might be best to move on.
 
-Once you arranger a builder, they will liaise with the listing agent to arrange for an inspection.
-
-Try find a builder who you can walk with on their inspection – they will give you a high-level overview of what to look out for, so you can do the basics yourself, and call them in for more expert eyes.
-
-The main thing with building reports is your comfort level – are you comfortable enough with the building and accepting of any repair work that is presented? No building will be perfect, and it’s the builder’s job to point out every minor imperfection.&#x20;
+By being strategic with your building reports and using them wisely, you can save yourself money while still ensuring the property is a solid investment. Just remember to focus on the major issues, and don't let every minor imperfection scare you away unless it’s truly a dealbreaker.

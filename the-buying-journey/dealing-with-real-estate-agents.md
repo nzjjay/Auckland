@@ -1,8 +1,6 @@
 # Dealing with real estate agents
 
-Most real-estate agents I have dealt with have been great professionals, that care about what they do, and have provided me a great buying experience. Remember through - the real estate agent works for the seller.
-
-Unfortunately, there can be some agents that can cause issues for you. As a first home buyer, you will be naïve to them, so this section is here to prepare you with their tactics.
+Most real estate agents I’ve dealt with have been professional, knowledgeable, and genuinely care about providing a good experience. However, it's important to remember that the agent works for the seller, not you. There are some tactics agents might use, especially if you're a first-time buyer, so here's what to watch out for.
 
 ## Buying agents
 
@@ -10,21 +8,26 @@ Most real estate agencies have buying agents who help serious buyers find suitab
 
 ## Selling agents
 
-Selling agents, or listing agents, are agents who list properties on the market. These agents work for the seller and are only incentivized by the seller.&#x20;
+Selling agents (also known as listing agents) list properties for sale. They work exclusively for the seller and are incentivized by the seller’s interests. It’s essential to keep in mind that their goal is to secure the highest price for their client, not necessarily help you as the buyer.
 
 ## Good things to know
 
-### Disclosures
+### Disclosures and predictions
 
-Agents by law cannot lie to you. They must truthfully disclose what the vendor has told them or what they have discovered. The problem is, the dodgy agents will ask sellers to not tell them anything bad, which means it is very hard for you to prove they knew something and didn't tell you down the track. Do not take an agents word at face value - verify.
+While real estate agents are legally required to be truthful, the reality is that some may work with the seller to keep issues hidden. If the vendor doesn’t disclose something, the agent isn’t obliged to mention it either. That's why it's crucial to never take everything the agent says at face value—always verify the details yourself. Some agents may even inflate certain aspects of the property to make it sound more appealing. You'll learn to spot the preposterous propositions being made soon enough, and here's some of my favourite gems:
+
+* Power pylons are very close by; agent remarks Transpower is actively planning to underground the national grid in Auckland in the next 5 years!
+* Master bedoom faces a cemetary; agent remarks it's a "quiet park".
+* Neighbours are being rowdy; agent remarks they're seriously considering selling, despite having lived there for more than 30 years!
+
+By being diligent and verifying the information for yourself, you can avoid falling for some of these misleading sales tactics and make more informed decisions.
 
 ### "Market Feedback"
 
-I often send agents texts asking for the "market feedback" for a property. The good agents will text back with a figure or range. This immediately tells you what the vendor expects or has been guided on, or what other visitors to the open home have expressed. There's lots of disclaimers with this market feedback, but it tells you if you're in the range of not. There's no point visiting a property with feedback of 1.8M when your budget is 1M. However agents will also play up or play down the feedback. Here's how it works:
+A helpful tactic is asking agents for "market feedback," which typically gives you a sense of what the seller expects for the property based on previous viewings or offers. Good agents will share a number or range, helping you determine if you're in the right ballpark for your budget. Be aware that agents may manipulate this feedback:
 
-If an agent wants more people at the auction, they will state a lower market feedback, to get people to the room and create a crowd.
-
-If an agent wants to price anchor, they will state a higher market feedback, hoping to nab someone that is less familiar with the value of the property.
+* **Lower feedback** can create a sense of urgency and draw more people to the auction.
+* **Higher feedback** can be used to anchor the price and attract buyers who are less familiar with the property’s value.
 
 Be mindful of this.
 
@@ -36,7 +39,7 @@ Agents can arrange private viewings for you, so don't hesitate to ask them to se
 
 ### Brushing you off
 
-Agents intentionally brush you off or give you that “look” when you visit their open homes. It’s not that they think you can’t afford it, it’s because they want to make you desperate and feel like you _need_ to prove something by signing an offer or raising at auction. Don’t fall for their ego tricks.
+Some agents may brush you off at open homes, giving you the impression that you’re not a serious buyer. This is a tactic to make you feel desperate and push you to make an offer quickly. Don’t let their attitude pressure you into anything.&#x20;
 
 ### Pressuring you to make an offer
 
@@ -52,4 +55,6 @@ You try to make an offer on the house, and the agent tells you others have made 
 
 ### Undervaluing the house
 
-This one gets on my nerves – you go to the open home and the agent will tell you the market feedback is one million. You go to auction, and the bidding hits 1.1m, and the reserve still isn’t met. Turns out the vendors actually want 1.2m. What’s happened here my friends, is you’ve just become an unwitting crowd for an auction to pressure some poor serious buyer into bidding because there’s “demand” for the property. The agent knows what the vendor wants, they know what the property will likely sell for, they have intentionally told you a lower amount so you think you have a chance and show up at the auction. Again, do your own valuations and math. If it’s too good to be true, it probably is. There are no bargains in Auckland.
+One of the most frustrating tactics is when an agent tells you the market feedback is lower than it really is. They may tell you a property is worth $1 million when the reserve price is actually $1.2 million. This strategy is designed to get buyers excited about bidding, creating the illusion of demand. Always do your own homework and valuation. If something seems too good to be true, it probably is. Remember, there are no real bargains in Auckland’s market.
+
+Being prepared and aware of these tactics will help you stay in control and make informed decisions while navigating the property market.

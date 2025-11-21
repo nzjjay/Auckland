@@ -12,24 +12,24 @@ Home insurance is a mandatory condition of finance from any lender. You must be 
 
 ## Get the online quote sorted before
 
-The easiest way to organise insurance is to go to one of the insurance websites, get a quote and have it saved. The day before you go unconditional or on fall of the hammer, take out the insurance policy. This is a good way to ensure you have coverage and there's no issues.&#x20;
+The simplest way to prepare is to obtain an online insurance quote in advance and save it. On the day before you go unconditional or are ready to pay the deposit, take out the policy. This ensures you are covered immediately and avoids delays in your settlement.
 
 ## Insurance Brokers
 
-In my experience I have found insurance brokers to be next to useless for a single home insurance transaction, and don't forget their incentive structure is tied to certain companies. The easiest way for you will be to organise insurance directly with a provider, but if you have existing consolidations, it may not be a bad idea.
+In practice, insurance brokers are often not essential for single-home transactions. Their advice may be biased by commission incentives with certain companies. For most first-time buyers, going directly to an insurer is straightforward and efficient. If you already have consolidated policies or multiple properties, a broker might help simplify management.
 
 ## Insurance certificate and bank
 
-Not a big deal, but when you take out your insurance policy, you have the option to register the interest your bank has on your property. Do this once you arrange your mortgage - you can take out an insurance policy without this, and amend it later to add in the bank once you sort out finances.
+Once your home loan is arranged, you should register your lender’s interest on your insurance policy. This ensures the bank is protected in case of loss. Don’t worry if you don’t do this immediately; it can be amended later.
 
 ## Re-build value
 
-After the Christchurch earthquakes, insurers now insure you for a sum-assured value that you determine, generally based off the Cordell-Sum system. It's really important you consider how much insurance coverage you require for your personal circumstances - don't forget about the cost of rebuilding a property after a natural disaster when everyone else is trying to do the same.&#x20;
+Post-Christchurch earthquakes, insurers calculate coverage based on the rebuild value, not the market value. The Cordell-Sum system is commonly used to determine this. Make sure your coverage reflects the true cost to rebuild your property, especially in a natural disaster scenario. This may be substantially higher than you expect, so do not underestimate it.
 
 ## Insurance exclusions
 
-Be really careful about any **exclusions** in your insurance policy. For example, some insurers exclude coastal erosion - if you can see the ocean from your house, congratulations and commiserations, because there's a chance the ocean swallows your house up, or your house slides down into it - and insurance won't care. Read your coverage carefully.
+Always read the fine print. Some policies exclude risks like coastal erosion, slips, or flooding. If your property is near the ocean or a slope, confirm exactly what is and isn’t covered—because if the worst happens, your insurer may not pay out.
 
 ## Self-Insurance
 
-This is solely my opinion, but if you reach a point where you are mortgage free and have sufficient net worth, you are not legally or mandatorily required to have insurance on your house - you effectively "self-insure". This saves the premium costs, and you bear the risk. Many in the insurance business will violently oppose my opinion here, but it's what I've done for my properties - putting my premiums into another investment fund, and if something does happen, leveraging it. Bear in mind third party risk too, as if you have a large tree that falls over on your neighbours house without insurance, you'll need to cover their losses - and if they have a $20 million house, you're on the hook for that.
+Once you are mortgage-free and financially secure, insurance is technically optional—you could self-insure. This means you bear the risk yourself while redirecting what would have been premiums into investments. Be cautious, though: third-party liability still applies. For example, if a large tree falls from your property onto a neighbor’s expensive home, you could be liable for the damage.

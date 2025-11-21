@@ -2,17 +2,19 @@
 description: These government sites are incredibly helpful sources of information.
 ---
 
-# Government websites you should use
+# Useful Websites
 
 The government / local council has really useful websites that are invaluable for your property search. In fact these are what I immediately look at whenever I see a property I have any interest in. Save these for future reference.
 
-## School Zones
+## Government Websites
+
+### School Zones
 
 {% embed url="https://www.educationcounts.govt.nz/find-school" %}
 
 The school zone map from the Ministry of Education gives you an easy map to see what zones your property is located within for schooling. This will play an important role if you have children as what school they go to, especially in the public school system, has a major influence on their childhood.
 
-## Auckland Flood Viewer
+### Auckland Flood Viewer
 
 [Experience (arcgis.com)](https://experience.arcgis.com/experience/cbde7f2134404f4d90adce5396a0a630)
 
@@ -20,7 +22,7 @@ Due to the 2022 Auckland Floods, the council has created a separate map view of 
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Auckland Council GIS Viewer
+### Auckland Council GIS Viewer
 
 [https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx](https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx)
 
@@ -36,7 +38,7 @@ The Auckland Council GIS viewer is a geomapping tool that lets you see all sorts
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## Auckland Council Unitary Plan Viewer
+### Auckland Council Unitary Plan Viewer
 
 [https://unitaryplanmaps.aucklandcouncil.govt.nz/upviewer/](https://unitaryplanmaps.aucklandcouncil.govt.nz/upviewer/)
 
@@ -44,7 +46,7 @@ The Auckland council unitary plan viewer lets you see the unitary plan zone for 
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-## Housing NZ / Kianga Ora / Govt property map
+### Housing NZ / Kianga Ora / Govt property map
 
 [https://linz.maps.arcgis.com/apps/webappviewer/index.html?id=8501fe601f7648718d0e3a2f3f1ed216](https://linz.maps.arcgis.com/apps/webappviewer/index.html?id=8501fe601f7648718d0e3a2f3f1ed216)
 
@@ -54,3 +56,24 @@ It also gives you a good understanding of government land, in case you are buyin
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+
+
+## Other Websites
+
+### Trademe Property
+
+{% embed url="https://www.trademe.co.nz/a/property/residential/sale" %}
+
+Trademe Property is my go-to tool to find properties, especially because of their easy to use UI. However not all vendors list on this site given the high fees.&#x20;
+
+### Oneroof
+
+[https://www.oneroof.co.nz/estimate](https://www.oneroof.co.nz/estimate)
+
+Oneroof will tell you the CV, and past sales history for the property in one place. Ignore the estimates it provides as it’s usually wildly inaccurate, but use it for the zoning and other information it provides under one roof.
+
+### Homes.co.nz
+
+[https://homes.co.nz](https://homes.co.nz)
+
+Homes.co.nz offers the same information as most of the other sites, but can be a better UI. Be careful about the valuations as agents can update these. The flip side is you can kind of get a feel for what they’ve promised the vendor.

@@ -2,22 +2,26 @@
 
 ### Lawyers
 
-A good property lawyer is worth their billables. Some lawyers will charge per title / property you send their way to review, while others will come to a goodwill agreement that you will definitely go with them when you buy, and they’ll bill you a slightly above average price when that occurs. Budget around $2000 for this. You’ll look at a few properties so make sure to do some pre-vetting before sending to your lawyers.
+Buying a house in Auckland without a skilled lawyer is a risky proposition. A good lawyer will protect you, manage all the complex paperwork, and give you peace of mind. Think of their fees as an investment in avoiding mistakes that could cost you tens of thousands later.
 
-Your lawyer will do the following for you:
+Lawyers handle a range of tasks for home buyers, including:
 
-1. Advise you on whether there's any issues with the property, and things to consider.
-2. Prepare Kiwisaver withdrawals if you meet the criteria and opt-in for this.
-3. Handle the sale and purchase agreement post-sale to conduct settlement.
-4. Bring you into their office to sign:
-   1. The mortgage documents
-   2. Title transfer documents
-   3. Anti money laundering verification
-   4. Proof of funds for AML
-5. Facilitate the transfer of funds to the seller on settlement day, including handling the money from the bank.
+* Advising you on any potential issues with the property and things to consider before making an offer.
+* Preparing Kiwisaver withdrawals if you meet the criteria and choose to use this scheme.
+* Drafting and reviewing the Sale and Purchase agreement and handling any amendments post-offer.
+* Coordinating in-office signings for:
+  * Mortgage documents
+  * Title transfer documents
+  * Anti-money laundering (AML) verification
+  * Proof of funds for AML compliance
+* Facilitating the transfer of funds to the seller on settlement day, including managing the bank’s lending portion.
 
-Your lawyer is the most important person to have with you as you buy your house. Pick a good lawyer, one that you trust fully, and trust them to do their job.
+Essentially, your lawyer is the person who ensures that all the legal and financial machinery runs smoothly from offer to settlement. Choosing the right lawyer is crucial: trust and competence are key. Pick someone you feel confident in and let them manage the process.
 
-## Lawyer costs
+**Lawyer Costs**
 
-So, lawyer prices vary all over the place. I use Avondale Law as they have been our family lawyers for many years - they charge us $1650 + gst, and don't charge for property due diligence before settlement (many lawyers charge each time you want them to evaluate a property). Our lawyer has also kindly sorted out settlement issues free of cost, but most lawyers charge for this too. Consult your lawyers on their fees early and often - you don't want lawyer fees to exceed the cost of handling an issue yourself.
+Lawyer fees can vary widely. Some lawyers charge per property review, while others will offer a goodwill arrangement where you commit to using them for your purchase in exchange for a slightly higher—but bundled—fee. Budget around $2,000 for this service, depending on complexity.
+
+Pre-vetting properties before sending them to your lawyer can save both time and money. Some lawyers charge for each due diligence review, so limiting the number of properties you submit for review is practical.
+
+For example, our family lawyer charges $1,650 + GST. They do not charge extra for property due diligence before settlement and have even helped resolve settlement issues without additional fees—though most lawyers will charge for this. Always discuss fees upfront and understand the scope of what is included. You don’t want lawyer fees to exceed the cost of resolving any issue yourself.

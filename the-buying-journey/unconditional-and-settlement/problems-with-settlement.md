@@ -12,10 +12,6 @@ This can happen easily - for example you've arranged funding, and you have lost 
 2. If the problem is your current bank, talk to other banks immediately. Do not wait for a resolution or answer - you may not get something easily.
 3. Remember the penalties for late settlement or no settlement are incredibly high, so do not waste time getting this sorted.
 
-{% hint style="info" %}
-**Story time:** Going unconditional on a house, a week before a Level 4 lockdown while being in the travel industry, with the bank asking for assurance you're keeping your job to continue their commitment to lend! I hadn't even lost a job!
-{% endhint %}
-
 ### You are not in the country / unavailable
 
 This is not a problem; your lawyer can hold your keys. Remember to still have full insurance coverage though.&#x20;

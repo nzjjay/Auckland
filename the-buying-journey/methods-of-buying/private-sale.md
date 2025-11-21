@@ -1,7 +1,9 @@
 # Private Sale
 
-A private sale is when the vendor has not listed through a registered real-estate agency, and has self-listed via Trademe Property or the like. This has considerable risk for both sides, but can be managed. The biggest issues I've found is the bank wanting significant due diligence as a result. The lawyers are generally fine as long the S\&P is straight-forward.
+A private sale occurs when the vendor has not listed through a registered real estate agency and has self-listed, usually via platforms like Trademe Property. These sales carry more risk for both parties but can be managed with proper diligence.
 
-In these situations, I'd caution you to conduct a lot of due diligence independently to make sure everything is good.&#x20;
+One of the main challenges is that banks often require more extensive due diligence before approving finance. Lawyers generally have fewer issues as long as the Sale and Purchase Agreement (S\&P) is straightforward.
 
-Overall, there's no real difference between a private sale and a sale by negotiation - you're just dealing directly with the vendor. Your lawyers will write up the same S\&P, and you'll go through the same settlement process.
+In private sales, it’s important to conduct thorough independent due diligence to ensure the property and all associated matters are in order.
+
+Overall, a private sale is not fundamentally different from a sale by negotiation—you are simply dealing directly with the vendor. Your lawyer will prepare the same S\&P, and the settlement process is the same as any other property transaction.

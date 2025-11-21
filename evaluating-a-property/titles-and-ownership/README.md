@@ -2,17 +2,15 @@
 
 ## Title and Ownership
 
-Titles determine the legal definition of the land, and are incredibly important. The easiest and most common approach is freehold, but there are others. For accurate and detailed information, read the government resources available here: [https://www.settled.govt.nz/buying-a-home/finding-a-property/understanding-types-of-ownership/](https://www.settled.govt.nz/buying-a-home/finding-a-property/understanding-types-of-ownership/)&#x20;
+Understanding property titles is crucial, as they define the legal ownership of land and the rights you have over it. The most common and straightforward type is freehold, but other options exist. For more detailed information, refer to the government guide: [https://www.settled.govt.nz/buying-a-home/finding-a-property/understanding-types-of-ownership/](https://www.settled.govt.nz/buying-a-home/finding-a-property/understanding-types-of-ownership/)&#x20;
 
 ## Freehold
 
-Freehold (or Fee Simple) is the most common and preferred style of ownership. If you can, always go for this sort of property. Freehold means you own the land, the house, and everything within that land is yours to use the way you want (subject to council and codes). This means in the future you can build your dream home on the site, subdivide, or something else.
+Freehold (or Fee Simple) is the most common and preferred type of ownership. It means you own the land, the house, and everything on it. You have full rights to use, modify, or develop the property—subject to council regulations. Freehold gives you maximum flexibility for future renovations, extensions, or even subdivision.
 
 ## Strata / Unit Title
 
 Usually called “Strata” or “Unit Title”, these are common for apartment buildings since you won’t own the land itself. A “Strata” title means you own a specific, defined area of a dwelling, and these are generally freehold, but it pays to double check (especially in the Viaduct area). Body corporates and levies usually apply, so make sure you pay extra attention to the supplementary documents that are provided with this.
-
-
 
 ## Cross-Lease
 
@@ -30,11 +28,11 @@ Some things to watch out for is shared driveways and utilities - if there's a lo
 Investment tip: Buy the other cross-lease later on, or talk to them before buying and see if they're keen to split the cost of title conversion to free-hold. Doing so means both of you can increase the land value of your properties as free-hold, and command a premium at re-sale.&#x20;
 {% endhint %}
 
-## &#x20;Lease-hold
+## &#x20;Leasehold
 
-Leasehold means you own the building, but have a lease on the land (which you don’t own). At some point in the future, that land will be passed back to its owner. Most leaseholds also feature a heavy ground rent. You should avoid leaseholds where possible. Don’t go there as a first home buyer, for the sake of your bank, lawyer and your sanity.
+Leasehold properties give you ownership of the building but not the land. Ground rent is usually required, and eventually, the land returns to its owner. Avoid leaseholds as a first-home buyer unless you fully understand the financial and legal implications.
 
 ## Body Corporates
 
-If you are looking at an apartment, most of them will have body corporates. If it is an older apartment, it will generally have a higher body corporate due to the maintenance needs. If it is a new apartment, it will have lower body corporates today – but a massive one coming your way as the building gets older. You have been warned.
+If you’re buying an apartment or a shared unit, most will have a body corporate to manage common areas. Older apartments often have higher levies due to maintenance, while new buildings may start with lower fees but expect them to rise as the building ages.
 

@@ -2,19 +2,17 @@
 
 ## Auction
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+Auctions are where buyers compete in a room, and the highest bidder wins the rights to the property. Almost all auctions are unconditional, meaning you are buying the property as-is, having completed any inspections and approvals beforehand. Bids are binding, so auction rooms are not the place to be indecisive.
 
-Auctions are where you are pitted against other buyers in a room, and the highest bidder by price has rights to the property. Almost all auctions are unconditional – meaning you are buying the property as-is, having gotten the relevant inspections and approvals prior to raising your hands. Note that bids are binding – auction rooms are not a good place to be indecisive.
-
-Auctions in Auckland are ruthless – the auctioneer will generally not pause, and once a property is on market, they will attempt to bring down the hammer fast, to move to the next lot.
+In Auckland, auctions move quickly. The auctioneer generally does not pause, and once a property is on the market, they will aim to bring down the hammer fast to move on to the next lot.
 
 Read more here: [https://www.settled.govt.nz/buying-a-home/making-an-offer/buying-by-auction/](https://www.settled.govt.nz/buying-a-home/making-an-offer/buying-by-auction/)
 
 ## Participating in an Auction
 
-Pre-covid, auctions were pretty straightforward. You show up at the house or venue where the auction is being held, register, and raise your hand. Nowdays, you can bid online (like Trademe but faster), and watch live-streams for most agencies, especially Barfoot.
+Before the pandemic, auctions were straightforward: you show up, register, and bid. Nowadays, online bidding and live-streams are common, particularly with agencies like Barfoot & Thompson.
 
-If you are serious about a house, ALWAYS, and I mean ALWAYS, participate in person. It's hard to explain but you will have a different sense of the room and the counter-bids.&#x20;
+If you are serious about a house, participate in person. Being physically present gives a better sense of the room, the energy, and the counter-bids.
 
 ## Vendor Bids
 

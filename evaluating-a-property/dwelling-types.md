@@ -2,19 +2,15 @@
 
 ### Freestanding house
 
-The most common type of housing – you have your house on a piece of land and nobody around you! There isn't much to say here. These homes are easy because you don't have to deal with anyone else, and you know the four walls around you.
+The most common type of housing – your house sits on its own piece of land with no shared walls. These homes are simple to manage because you don’t deal with shared spaces or neighbours’ decisions, and you know exactly what you own.
 
 ### Terraced Housing / Units
 
-Terraced houses are a recent addition to the Auckland market – typically new builds out in Hobsonville, or under the Unitary Plan. Terraced houses are cost effective, modern, and are low maintenance. You will be sharing a wall with other people, and there may be a shared driveway.
-
-Some banks will be reluctant to lend on terraced housing, there may be insurance implications, and many of them have covenants, so make sure you check before you make an offer.
-
-Something to be mindful of is there may be covenants, that restrict what you can do with your home, including hanging your laundry out on the balcony, or the shared spaces.
+Terraced houses are a newer addition to Auckland, often found in developments under the Unitary Plan or in areas like Hobsonville. They’re modern, cost-effective, and low-maintenance, but you’ll share walls and sometimes driveways with neighbours. Some banks may be cautious about lending for terraced homes, and insurance can be more complex. Many come with covenants restricting things like balcony laundry or modifications to shared spaces, so check these carefully before making an offer.
 
 ### Semi-Detached dwelling
 
-Usually this means the house is separate, but your garage (may be internal access), is attached to your neighbour’s garage. These tend to be cheaper, and there’s some increased headache in relation to making changes to your building. Again, consult insurance and banks early, as you will share a wall of some sort with your neighbour.&#x20;
+Semi-detached homes are similar to terraced houses, except usually only one wall or garage is shared with a neighbour. They tend to be cheaper than freestanding homes, but any structural changes may require consideration of shared walls. Check with your bank and insurance early, as shared access or walls may affect both.
 
 ### Apartment
 

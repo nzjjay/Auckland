@@ -6,9 +6,11 @@ Let's get this out of the way first. If we look at buying vs renting as a purely
 
 **Scenario:** $1 Million townhouse in New Lynn, rent of $800 a week. If buying, 20% deposit.
 
-**Opportunity cost of interest:** Remember that the money you invest can earn a return, so over time, as you pay down the house, you forgo the opportunity to invest that money elsewhere. For the purposes of this example, I will be assuming that the interest on mortgage = interest earned on savings, which is never the case (savings is always lower), but even then...
+#### Opportunity cost of your deposit (and repayments)
 
+There’s another cost people often forget: the return you could have earned by investing that money instead. Whenever you put money into your home — your deposit, principal repayments, renovations — you’re giving up the chance to invest it somewhere else.
 
+For simplicity, let’s assume the interest rate on your mortgage is the same as the return you’d earn on savings or conservative investments. That’s almost never true (savings rates are usually lower), but even with this generous assumption, buying still comes out more expensive in the short term. You’re locking capital into a property that could be invested elsewhere.
 
 | Cost                        | Buying  | Renting |
 | --------------------------- | ------- | ------- |
@@ -21,24 +23,35 @@ Let's get this out of the way first. If we look at buying vs renting as a purely
 
 How much do you hate your landlord?
 
-## Capital Gain
+## Capital gain
 
-Properties change in value over time, that's a given, but this can be either direction. Properties in Auckland have historically increased in value for a variety of factors, so this does need to be factored in to your financial calculations - how much do you think your property will appreciate or depreciate over time?&#x20;
+Property values change over time — sometimes up, sometimes down. In Auckland, values have historically increased for many reasons: population growth, limited land, infrastructure investment. But history isn’t a guarantee.
 
-In the example above, the property would need to appreciate by about 2% per year in perpetuity to break-even, assuming all-else remains same.
+In our New Lynn example, the property would need to increase in value by roughly 2% per year, indefinitely, just to break even under simplified assumptions. And that assumes:
 
-There's a misconception amongst every single Aucklander you'll meet - that Auckland properties always go up. Remember investing 101 - past performance does not guarantee future returns. Ask anyone that purchased in 2021 how their home is valued in 2025.
+* stable interest rates,
+* no major repairs,
+* rents staying where they are,
+* and the property always being easy to sell.
 
-## It's not the financials you need to consider
+That’s a lot of assumptions.
 
-In writing all this, owning your home has several benefits, and the emotional side of it matters the most, for example:
+There’s a persistent Auckland myth that “property always goes up.” Ask anyone who bought in 2021 and saw their valuation in 2023–2025 — the market can absolutely go backwards.
 
-1. The feeling of owning your own home...
-2. Being able to buy furniture that's just perfect, because you won't ever need to move out.
-3. Renovating your home to your desires...
-4. Not living in anxiety of being kicked out after a year / 60 days notice.
-5. Not being totally surprised by rent increases.
-6. Not worrying about moving around, and the stability that comes with a location.
+Past performance does not predict future returns. Treat capital gain as a possibility, not a certainty.
 
-Long story short, if you are buying because you don't want to rent anymore, it's not the financials you should be relying on for why.
+
+
+## It’s not just about the financials
+
+With all this said, the emotional and lifestyle benefits of owning your home are real, and for many buyers, they matter more than spreadsheets:
+
+* The sense of belonging and permanence.
+* Buying furniture that fits perfectly, knowing you won’t need to move.
+* Renovating the kitchen or ripping up the carpet because _you_ want to.
+* No more anxiety about being given 60 days’ notice.
+* Predictable housing costs instead of yearly rent spikes.
+* Stability — for you, your family, your routines, and your mental wellbeing.
+
+If your main reason for buying is “I don’t want to rent anymore,” then don’t lean on the financial comparison to justify it. The non-financial benefits often outweigh the short-term costs — but that’s a personal decision, not a spreadsheet result.
 

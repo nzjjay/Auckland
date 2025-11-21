@@ -1,8 +1,10 @@
 # Getting a pre-approval
 
-If you're filthy rich with a spare million sitting in the bank, you can skip this section. But for the rest of us, the first step before diving into house hunting is to talk to your bank or a mortgage broker and get a home loan pre-approval.
+If you’re sitting on a spare million in the bank, you can skip this section. For the rest of us, the first step before diving into house hunting is to talk to your bank or a mortgage broker and get a **home loan pre-approval**.
 
-A pre-approval is a formal process where the bank assesses your finances and gives you a conditional lending amount. This tells you how much you can borrow—and ultimately, what your budget is. Keep in mind that pre-approvals come with conditions, so while they give you a solid starting point, they’re not a guarantee of final approval when you find a house.
+A pre-approval is a formal process where the bank assesses your finances and gives you a conditional lending amount. This tells you how much you can borrow — and ultimately, what your realistic budget is. Keep in mind: pre-approvals come with conditions and are **not** a guarantee of final approval when you find a property.
+
+***
 
 ### Banker or Broker?
 

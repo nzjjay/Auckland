@@ -1,33 +1,33 @@
 # Tender, Negotiation, and Deadline
 
-Tenders, Negotiations, and Deadlines are all very similar, so let's talk through them.
+When it comes to making an offer on a property, tenders, negotiations, and deadline sales are very similar, but there are key differences that are important to understand.
 
-One thing to note - the real estate agent is bound by code to present all offers to the vendor. So don't take their suggestion, you can do your own thing.
+One thing to remember: real estate agents are bound by code to present **all offers** to the vendor. While they may provide guidance, you can submit the offer you feel is right.
 
 ## Tender
 
-The tender process requires you to submit a blind offer, against other potential buyers. All offers are jointly presented,  and the vendor and agent will determine the best offer to select, and you will be informed if your offer is successful.&#x20;
+The **tender process** is essentially a blind bidding system:
 
-* Tender offers are opened after a tender deadline.
-* The vendor can change the deadline.
-* You are legally bound to your offer.
-* You are required to provide a deposit with your offer, which is kept if your offer is accepted.
-* The vendor can accept, negotiate, or decline any of the tenders.
+* You submit your offer without knowing what others are offering.
+* All offers are presented together to the vendor and agent.
+* The vendor can **accept, negotiate, or decline** any of the tenders.
+* Tender offers are **opened after the tender deadline**, and the vendor may change the deadline if needed.
+* You are **legally bound** to your tender offer.
+* A **deposit is required** with your offer and is retained if your tender is accepted.
 
 Read more here: [https://www.settled.govt.nz/buying-a-home/making-an-offer/buying-by-tender/](https://www.settled.govt.nz/buying-a-home/making-an-offer/buying-by-tender/)
 
 ## Negotiation
 
-Negotiation works like any other negotiation in real life. You sit down with the agent who acts as the intermediary, and negotiate a price. You can pretty much negotiate anything and everything. Some things you can add as a buyer:
+Negotiation works like any other real-world negotiation, with the agent acting as an intermediary:
 
-* Subject to finance, legal, and insurance approvals.
-* Subject to satisfactory building inspection.
-* A lower deposit amount.
-* A different settlement date.
-
-With a negotiation, you can withdraw your offer at any time, and no deposit is required, this is differnet to the tender process where you are making a pre-commitment.&#x20;
-
-There can be a multi-offer scenario where you are one of several people offering to buy the house. In this situation you need to ensure you present the best foot forward.
+* You can negotiate **price, deposit, settlement date, or conditions** such as:
+  * Subject to finance approval
+  * Subject to legal approval
+  * Subject to insurance approval
+  * Subject to a satisfactory building inspection
+* Unlike tenders, you can **withdraw your offer at any time**, and no deposit is required.
+* Multi-offer scenarios are common here — if multiple buyers are interested, present your strongest offer.
 
 ## Deadline Sale
 

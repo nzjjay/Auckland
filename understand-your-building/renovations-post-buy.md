@@ -2,16 +2,13 @@
 
 ## Before or after?
 
-I guarantee that you will want to make some modifications to the house you buy, either immediately or down the line, its a kiwi right of passage. There's two lines of thought:
+I guarantee that once you buy a house, you’ll want to make some modifications—either immediately or down the line. It’s almost a Kiwi rite of passage. Broadly speaking, there are two approaches: renovating before you move in, or renovating after you’ve settled.
 
-1. Renovate before you move in.
-2. Renovate after you move in.
+Renovating **before you move in** is ideal from a project management perspective. You’re dealing with an empty house, so there’s no need to work around your existing life or furniture. Staying somewhere else temporarily means minimal disruption, and you have a blank canvas to implement your vision exactly as you want it. It also gives a clean mental start—you walk in on day one and everything is exactly how you envisaged it.
 
-Renovations before you move in is best in terms of "project management" because you have an empty shell, you can or are staying somewhere else, there's minimal disruption to your life and family, and you've got the full inspiration to do whatever you want on day one.&#x20;
+Renovating **after you move in**, however, has its own advantages. Living in the space first allows you to understand how it really works for your lifestyle. You see how the rooms flow, how light moves through the house, and how you actually use the space day-to-day. This insight often leads to more practical and satisfying renovations.
 
-Renovations after you move in create a lot of disruption, but means you've lived in a space and really understand what will work best in that environment.
-
-For me, I used to be in the before camp, but I've now switched to the after camp. For example, I've always had and loved a good granite kitchen benchtop, and my new property has stainless steel - hated it at first, and wanted it gone before I moved in, but now that I use it, I love how easy to clean it is.&#x20;
+Personally, I used to favor the “before” camp, wanting everything perfect before stepping foot in the house. Over time, though, I’ve shifted to the “after” mindset. A good example: I’ve always loved granite kitchen benchtops, and my new property had stainless steel. Initially, I hated it and wanted to replace it before moving in. Now, after using it, I appreciate how easy it is to clean and maintain—something I wouldn’t have known without living in the space.
 
 ## Finances
 

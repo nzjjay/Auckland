@@ -1,14 +1,20 @@
-# Dealing with real estate agents
+# Real Estate Agents and Tactics
 
-Most real estate agents I’ve dealt with have been professional, knowledgeable, and genuinely care about providing a good experience. However, it's important to remember that the agent works for the seller, not you. There are some tactics agents might use, especially if you're a first-time buyer, so here's what to watch out for.
+Most real estate agents I’ve dealt with are professional, knowledgeable, and genuinely care about providing a good experience. However, it’s crucial to remember that **agents work for the seller**, not you. As a first-home buyer, there are some common tactics to watch out for, and knowing them can save you from unnecessary stress and bad decisions.
 
 ## Buying agents
 
-Most real estate agencies have buying agents who help serious buyers find suitable properties. They work on commission, so they usually only assist committed clients and are free for buyers. While you don’t need a buying agent—and many don’t work well with first-home buyers—you might find one willing to help. If you do, always contact them first before viewing a property, as they only earn a commission if they’re with you on your first visit.
+Some agencies have agents who work on behalf of buyers. They’re paid via commission from the seller, so usually only help serious buyers. While not essential for first-home buyers, a good buying agent can:
 
-## Selling agents
+* Monitor the market and alert you to new listings early
+* Arrange private viewings
+* Advise on pre-auction offers
 
-Selling agents (also known as listing agents) list properties for sale. They work exclusively for the seller and are incentivized by the seller’s interests. It’s essential to keep in mind that their goal is to secure the highest price for their client, not necessarily help you as the buyer.
+If you use a buying agent, always contact them **before viewing a property** — they only earn commission if they accompany you on your first visit.
+
+## Selling agents (Listing agents)
+
+Listing agents work exclusively for the seller. Their goal is to secure the highest possible price, not necessarily help you as a buyer. Keep this in mind when they offer advice or make suggestions.
 
 ## Good things to know
 
@@ -24,16 +30,18 @@ By being diligent and verifying the information for yourself, you can avoid fall
 
 ### "Market Feedback"
 
-A helpful tactic is asking agents for "market feedback," which typically gives you a sense of what the seller expects for the property based on previous viewings or offers. Good agents will share a number or range, helping you determine if you're in the right ballpark for your budget. Be aware that agents may manipulate this feedback:
+Agents often provide “market feedback” — an idea of what the seller expects based on previous viewings or offers. This can help you gauge if you’re in the right ballpark, but agents may manipulate this:
 
-* **Lower feedback** can create a sense of urgency and draw more people to the auction.
-* **Higher feedback** can be used to anchor the price and attract buyers who are less familiar with the property’s value.
+* Low feedback can create urgency and attract more buyers
+* High feedback can anchor expectations and attract uninformed buyers
 
-Be mindful of this.
+Be mindful and always do your own homework.
 
 ### Private viewing
 
-Agents can arrange private viewings for you, so don't hesitate to ask them to see it outside of an open home. Most will happily oblige for serious buyers.
+Agents can arrange private viewings outside of open homes. Most will happily accommodate serious buyers — don’t hesitate to ask.
+
+***
 
 ## Bad tactics
 
@@ -53,8 +61,10 @@ Agents love a pre-auction offer (you’ll see what I mean after a few open homes
 
 You try to make an offer on the house, and the agent tells you others have made offers too that are more competitive. Don’t fall for this, they’re trying to shake you down for more. Just present the offer you deem appropriate. One of two things will happen – the vendor will accept the higher offer, which is fair game, or the agent will call you in 2 business days asking for the original offer, making an excuse about the other buyer pulling out.
 
-### Undervaluing the house
+### Undervaluing the property
 
-One of the most frustrating tactics is when an agent tells you the market feedback is lower than it really is. They may tell you a property is worth $1 million when the reserve price is actually $1.2 million. This strategy is designed to get buyers excited about bidding, creating the illusion of demand. Always do your own homework and valuation. If something seems too good to be true, it probably is. Remember, there are no real bargains in Auckland’s market.
+One of the most frustrating tactics is when an agent tells you the market feedback is lower than it really is. They may tell you a property is worth $1 million when the reserve price is actually $1.2 million. This strategy is designed to get buyers excited about bidding and show up at the auction, creating the illusion of demand. The bidders in the room get flustered with the number of people, think there's huge demand and start bidding higher than they expected to. Always do your own homework and valuation. If something seems too good to be true, it probably is. Remember, there are no real bargains in Auckland’s market.
 
 Being prepared and aware of these tactics will help you stay in control and make informed decisions while navigating the property market.
+
+This is such an awful tactic that in the State of Victoria, Australia, agents will be legally required to reveal a property’s reserve price a week before auction, under nation-first laws to crack down on underquoting.

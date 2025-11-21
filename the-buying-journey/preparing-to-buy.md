@@ -1,16 +1,22 @@
 # Preparing to buy
 
-Found a house you like, and are ready to go to auction for it or make a conditional offer? Here's what you need to know.
+So, you’ve found a house you like and are ready to either **attend the auction** or make a **conditional offer**. Here’s what you need to know to prepare.
 
 ## Deposit
 
-Make sure you have money to settle the initial deposit! Most people know about 20% LVR and needing a 20% deposit to buy a house, but you will typically need to pay a 10% cash deposit upfront on the fall of the hammer or once the sale goes conditional. You need to have these funds sitting in a on-call account ready to be transferred.
+Before anything else, ensure you have funds ready for the **initial deposit**. While many people know about the 20% deposit for LVR purposes, at auction or when making a conditional offer, you typically need to pay **10% cash upfront**.
 
-It is unacceptable and almost unheard of to not be able to pay the deposit, so make sure you have this sorted or you'll be in a lot of pain.
+* These funds must be immediately available for transfer.
+* Not being able to pay the deposit is considered unacceptable and can put you in serious trouble.
 
 ## Bank Approvals
 
-Go back to the bank where you have the pre-approval, and submit the property title, Sale and Purchase Agreement, LIM and other information to them for a further approval to purchase the property. Although you can make this a condition of sale on non-auction sale types, this is a straightforward step so you may as well do it before you make any offers and save everyone time.
+Once you’ve found a property:
+
+1. Go back to the bank (or broker) where you have pre-approval.
+2. Submit the **property title, Sale and Purchase Agreement, LIM**, and any other relevant documents for **final approval**.
+
+Even if your offer will include a condition of finance, getting the bank involved early saves time and reduces stress.
 
 {% hint style="info" %}
 Visit this section to learn more about pre-approval: [https://guide.meethouses.com/finance-legal-and-insurance/getting-a-pre-approval](https://guide.meethouses.com/finance-legal-and-insurance/getting-a-pre-approval)&#x20;

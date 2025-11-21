@@ -1,5 +1,11 @@
 # Foreword
 
+<figure><img src=".gitbook/assets/AKL Book.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
 Kia Ora and Welcome,
 
 If you're reading this, you're part of a very special friend group that's getting a pre-read of my upcoming book called Buying Property in Auckland: The Guide, coming to all good bookstores and of course Amazon, very soon.

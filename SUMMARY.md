@@ -20,7 +20,6 @@
   * [Private Sale](the-buying-journey/methods-of-buying/private-sale.md)
 * [Unconditional and Settlement](the-buying-journey/unconditional-and-settlement/README.md)
   * [Problems with settlement](the-buying-journey/unconditional-and-settlement/problems-with-settlement.md)
-* [My tradies and team](the-buying-journey/my-tradies-and-team.md)
 * [Donate / Koha to your community](the-buying-journey/donate-koha.md)
 
 ## Evaluating a Property

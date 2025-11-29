@@ -55,4 +55,4 @@
 
 ***
 
-* [Page 1](page-1.md)
+* [Afterword](afterword.md)

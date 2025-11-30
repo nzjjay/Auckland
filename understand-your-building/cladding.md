@@ -10,13 +10,13 @@ The cladding is the exterior material used on the outside of the framing to cove
 
 The most common building material in New Zealand. Weatherboard looks good and is good for the New Zealand weather – it’s also easy to renovate and customize. Be warned wood can rot even if its been treated and requires regular maintenance (like painting). Most kiwis love the weatherboard look, so check the wood is good, don’t confuse it with hardy planks, and enjoy it.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChatGPT Image Nov 30, 2025, 06_49_17 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Brick and Tile
 
 Brick and tile properties are low maintenance are quite common from the 1960s and onwards. They’re a bit harder to renovate with, and insulation can be questionable sometimes, but it can be set and forget. There's a reason why the elderly love these homes, and for good reason.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## PVC / Palliside
 
@@ -35,17 +35,17 @@ Weatherside cladding can be hard to spot by the untrained eye as it looks so sim
 3. The edge on weatherside is curved.
 4. The base colour is brown, so if there's existing damage or cracks, is it brown?
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Rot in Weatherside cladding. Source: Settled.govt.nz</p></figcaption></figure>
 
 ## Plaster / Stucco
 
 Houses made of plaster and stucco, especially monolithic cladding ones, are unfortunately a dead duck in Auckland’s housing market. Simply put, as a first home buyer, or even a several home buyer, avoid these. Stucco / plaster properties have leaked and continue leaking years after being built and are not designed for New Zealand conditions. Every insurer and bank is also aware of this, and you will not find it easy to get bank or insurance approval. Save everyone time and move on.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ## Concrete
 
-Similar to plaster / stucco – avoid, just slightly less risky, but it is better to find yourself a common material like Weatherboard or Brick & Tile.
+Similar to plaster / stucco – avoid, just slightly less risky, this is one where you want to get a builder involved.
 
 
 

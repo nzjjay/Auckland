@@ -6,10 +6,6 @@ Plumbing and wiring will vary based on the era the house was constructed. If you
 
 Check the switchboard and see if its old or new. If it is an old school black asbestos backed board, with fuses instead of switches, you may need to consider replacing the switchboard sooner or later. Ask your licensed building professional or electrician for further advice.&#x20;
 
-3
-
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Spot the difference</p></figcaption></figure>
-
 ## Dux Quest Plumbing
 
 When you check a building’s plumbing and you see black pipes with a white stripe running down the side, be worried. Check for identifying markets for Dux Quest. These pipes were very common in the late 1960s to 1980s and are renowned for leaking. Some insurance companies won’t cover damage from this sort of leak, and most certainly won’t cover round 2 leaks.

@@ -2,8 +2,6 @@
 
 During the first home buyer search, all of us fall in love with at least one heritage villa in Mt Eden (or similar). The house will be painted in Epsom white, have high ceilings, and will make you feel like the 1900s royalty you are. These houses are beautiful in their own right, but you need to be aware of a few things when you visit them, for insurance and quality of house purposes. Call it the “REs”.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-
 | Look For   | Description                                                                                                                                                                                                                                                                                                                                            | Cost (As of 2020)                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | Re-Roofed  | <p>The house should have been re-roofed since original construction and comply with modern building codes. Iron roofs have a life expectancy of 30 years. If the house hasn’t been re-roofed, make sure you get a careful inspection done. Most insurance companies expect it.</p><p> </p>                                                             | $10,000 - $20,000                |

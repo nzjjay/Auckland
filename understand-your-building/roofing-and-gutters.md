@@ -30,8 +30,8 @@ An **external gutter** is a type of house gutter that sits **on the outside edge
 
 ### Internal Gutters
 
-Internal gutters are where the gutter is not exposed and contained within the building. It usually makes the house look a lot nicer subjectively. The problem is when things go wrong - it can be a very expensive fix. My strong advice is to go with the common and easy option of external gutter properties. This article is technical, but explains how an internal gutter works: [https://www.buildmagazine.org.nz/assets/PDF/Build-143-34-Design-Right-Internal-Gutters.pdf](https://www.buildmagazine.org.nz/assets/PDF/Build-143-34-Design-Right-Internal-Gutters.pdf)&#x20;
+An **internal gutter** (also called an _internal box gutter_) is a gutter system that sits **within the roof structure**, usually between two sections of roof or behind a parapet wall, rather than hanging on the outside edge of the house. Instead of being visible on the fascia, it’s built into the roof and lined with a waterproof membrane to collect water and direct it to internal downpipes or rainwater heads. Internal gutters are often used in modern architectural designs or where two roof planes meet, but they require very precise installation and regular maintenance because any blockage or membrane failure can cause leaks directly into the ceiling. They’re discreet and visually clean from the outside but are more complex and higher risk than external gutters if not well maintained.
 
-#### Downpipes
+### Downpipes
 
 As the name implies, downpipes connect the gutters to the stormwater system. Make sure this isn't broken.

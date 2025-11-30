@@ -37,8 +37,6 @@ Single housing is a zoning classification that applies to many areas in Auckland
 
 Ultimately, Single Housing Zones are ideal for buyers who prioritize stability, a sense of community, and a more traditional residential environment, but they may not be suitable for those looking for more flexibility in terms of development opportunities.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ## Mixed Suburban Zone
 
 The **Mixed Suburban Zone** is one of the most common residential zoning types in Auckland. It is designed to accommodate a variety of residential types while also allowing for some level of intensification in suitable areas.
@@ -63,8 +61,6 @@ The **Mixed Suburban Zone** is one of the most common residential zoning types i
 * **Growing Density**: As the city intensifies, areas within the Mixed Suburban Zone may see increased housing density, which could impact your privacy and outdoor space, especially if new developments are built close by.
 * **Limited Privacy**: The close proximity of properties, particularly with the construction of townhouses or shared driveways, can lead to less privacy compared to larger, standalone homes in suburban zones.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
 ## Mixed Urban Zone
 
 The **Urban Zone** is another crucial component of Auckland’s Unitary Plan, focusing on higher-density living in areas designed to accommodate growth while balancing urbanization with livability.
@@ -88,8 +84,6 @@ The **Urban Zone** is another crucial component of Auckland’s Unitary Plan, fo
 * **Lack of Outdoor Space**: Properties in the Urban Zone may lack the outdoor space you’d find in suburban areas. If you enjoy gardens or yards, you may need to compromise when living in high-rise or dense developments. Some of these places can have just 20sqm of outdoor space!
 * **Potential Noise and Crowding**: Higher-density living means more people in closer proximity, which can lead to **noise**, **crowding**, and potentially a less private living experience.
 * **Price Fluctuations**: In some areas, rapid urbanization and intensification can lead to fluctuating property prices, which may result in higher entry costs for buyers and potential challenges in long-term affordability.
-
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ## Terraced Housing and Apartment Zone (THAB)
 
